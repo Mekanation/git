@@ -32,9 +32,19 @@ Exercise Steps/Instructions:
 * Check the status, add, commit and push your changes
 * Go to your repository and make sure the notes.txt file is removed, and only HTML files remain
 
+<<<<<<< HEAD
 **Bonus Goals:
 * The instructions for the bonus functionality are another branch of this repo.  Find those instructions
+=======
+**Bonus Functionality : 
+
+* Merge The <code>merge-this-branch</code> into the master branch.  Ger rid of the readme instructions from the master branch.  Keep this code.  Resolve any merge conflicts that may arise.
+>>>>>>> merge-this-branch
 
 3. Submit the exercise in <a href="https://bit.ly/3aKtYAC" target="_blank">TEKsystems Academy</a>
 
 4. Complete the Exercise Evaluation form in <a href="https://bit.ly/2KE32Yw" target="_blank">TEKsystems Academy</a>.
+<<<<<<< HEAD
+=======
+
+>>>>>>> merge-this-branch
